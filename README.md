@@ -8,4 +8,4 @@
 2. 백지 or 제목만 작성하기
 3. 주제에 대한 설명을 내가 알고있는대로, 이해한대로 작성하기
 
-- [객체지향 원리] (https://github.com/wlsrn99/Typing-study.git/스프링/객체지향원리.md)
+- [객체지향 원리] (https://github.com/wlsrn99/Typing-study.git/main/스프링/객체지향원리.md) <br>
