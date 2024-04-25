@@ -14,4 +14,4 @@
 - [좋은 객체 지향 설계의 5가지 원칙](https://github.com/wlsrn99/Typing-study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%A2%8B%EC%9D%80%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%9D%98%205%EA%B0%80%EC%A7%80%20%EC%9B%90%EC%B9%99.md) <br>
 - [IoC,DI 컨테이너](https://github.com/wlsrn99/Typing-study/blob/77061382a227b04a63813ff33ca15b084933e059/%EC%8A%A4%ED%94%84%EB%A7%81/IoC,DI,%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)<br>
 - [싱글톤 패턴과 싱글톤 컨테이너](https://github.com/wlsrn99/Typing-study/blob/6460d8329c397b1e970d991ad723ad57f44ec23e/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)<br>
-- [BeanFactory와ApplicationContext.md](스프링/BeanFactory와ApplicationContext.md)<br>
+- [BeanFactory와 ApplicationContext](스프링/BeanFactory와 ApplicationContext.md)<br>
